@@ -1,1 +1,1 @@
-# python-for-data-science
+# exploratory-data-analysis
