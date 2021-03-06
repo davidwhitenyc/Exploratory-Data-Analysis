@@ -10,3 +10,35 @@ This repository contains various exploratory data analyses that I’ve created u
 
 For more information please contact: david@msmdesign.nyc | [msmdesign.nyc](https://msmdesign.nyc/)
 
+
+
+## MSM Open Datasource EDAs
+
+___
+
+### MSM-E11 | Student-Teacher Ratios
+
+> **GitHub:** https://github.com/davidwhitemsm/exploratory-data-analysis/blob/master/MSM-E11%20-%20Student-Teacher%20Ratios.ipynb
+>
+> **Google Colab:** https://colab.research.google.com/drive/1FsVpRL2jiUiXbdqiKtBlWMt89ZJBwJ6T?usp=sharing
+
+
+
+### MSM-E23 | School Demographics-1
+
+> **GitHub:** https://github.com/davidwhitemsm/exploratory-data-analysis/blob/master/MSM-E23-School%20Demographics%20-1.ipynb
+>
+> **Google Colab:** https://colab.research.google.com/drive/1DYt8uVdM-dw9x30vLzbt-fy8TqWHRGVm?usp=sharing
+
+
+
+### MSM-E24 | School Demographics-2
+
+> **GitHub:** https://github.com/davidwhitemsm/exploratory-data-analysis/blob/master/MSM-E24%20-%20School%20Demographics-2.ipynb
+>
+> **Google Colab:** https://colab.research.google.com/drive/1hkrYRo-8S4vUAOboWtVmc_mcHtaaPl90?usp=sharing
+
+
+
+
+
