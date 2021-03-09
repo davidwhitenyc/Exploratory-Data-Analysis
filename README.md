@@ -40,5 +40,15 @@ ___
 
 
 
+### INS-036 | NYSED - College Enrollment
+
+> **GitHub:** https://github.com/davidwhitemsm/exploratory-data-analysis/blob/master/INS-036%20-%20NYSED%20College%20Enrollment.ipynb
+>
+> **Google Colab:** https://colab.research.google.com/drive/1Xuf2Yy2LW3k_M9_qvOYZbbtLeDtu55jg?usp=sharing
+
+
+
+
+
 
 
