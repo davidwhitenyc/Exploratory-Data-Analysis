@@ -9,5 +9,3 @@
 This repository contains various exploratory data analyses that I’ve created using Jupyter Notebooks.
 
 For more information please contact: david@msmdesign.nyc | [msmdesign.nyc](https://msmdesign.nyc/)
-
-TEST CHANGE
