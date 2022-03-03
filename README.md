@@ -5,6 +5,8 @@ This repository contains various exploratory data analyses that I’ve created u
 For more information please contact: david@msmdesign.nyc | [msmdesign.nyc](https://msmdesign.nyc/)
 ***
 
+## Exploring NYC Open Data
+
 ### MSM-029
 NYC Open Data: NYC Business Acceleration Businesses Served and Jobs Created
 <br>
@@ -17,6 +19,16 @@ NYC Open Data: Mayor’s Office of Operations: Demographic Survey
 NYC Open Data: Agency Voter Registration Activity
 <br>
 <br>
+### MSM-032
+NYC Open Data: Volunteers Count Report - Neighborhoods
+<br>
+<br>
+### MSM-033
+NYC Open Data: Demographics by Community District
+<br>
+<br>
+***
+## Example EDAs
 ### MSM-E11
 Student-Teacher Ratios in NYC Public Schools
 <br>
