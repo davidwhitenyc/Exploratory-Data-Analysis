@@ -1,0 +1,3 @@
+# NYC Open Data: Demographics by Community District
+
+**About This Dataset:** The annual NYC Volunteers Count report is the City’s largest scan of residents volunteering at organizations across New York City. Organizations, including City agencies, Mayoral offices, and nonprofits, are surveyed to understand how residents volunteer within the city’s infrastructure to strengthen communities at the neighborhood level. All participating organizations are recognized for their contributions in the annual NYC Volunteers Count report. Data provided by NYC Service: https://data.cityofnewyork.us/Social-Services/2019-Volunteers-Count-Report-Neighborhoods/72r6-mtgs

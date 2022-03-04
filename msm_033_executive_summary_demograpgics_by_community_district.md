@@ -1,0 +1,3 @@
+# NYC Open Data: Demographics by Community District
+
+**About This Dataset:** This dataset provides a Demographic breakdown of only DYCD-funded participants within Community District of NYC. This data is used to measure the numbers of the different population groups that are served by DYCD for a Borough, and Community. Data provided by Department of Youth and Community Development (DYCD), the City of New York: https://data.cityofnewyork.us/Social-Services/Demographics-by-Community-District/ud6j-d73w
