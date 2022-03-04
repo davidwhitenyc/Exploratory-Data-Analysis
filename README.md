@@ -28,6 +28,11 @@ NYC Open Data: Demographics by Community District
 <br>
 <br>
 ***
+### MSM-034
+NYC Open Data: Buildings by Borough and Community District
+<br>
+<br>
+***
 ## Example EDAs
 ### MSM-E11
 Student-Teacher Ratios in NYC Public Schools
